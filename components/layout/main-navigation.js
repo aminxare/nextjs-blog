@@ -1,7 +1,7 @@
 import Link from "next/link";
 import Logo from "./logo";
 
-import classes from './main-navigation.module.css';
+import classes from "./main-navigation.module.css";
 
 const MainNavigation = () => {
   return (
@@ -13,7 +13,7 @@ const MainNavigation = () => {
       </Link>
       <ul>
         <li>
-          <Link href="/posts">Posts</Link>
+          <Link href="/posts">Posts </Link>
           <Link href="/contact">Contact</Link>
         </li>
       </ul>

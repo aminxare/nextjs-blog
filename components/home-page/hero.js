@@ -6,13 +6,13 @@ export default function Hero() {
     <section className={classes.hero}>
       <div className={classes.image}>
         <Image
-          src="/images/site/IMG_1352.JPG"
-          alt="An image showing Amin"
+          src="/images/site/hero.jpg"
+          alt="The Old Guitarist"
           width={300}
           height={300}
         />
       </div>
-      <h1>Hi, I&apos;m Amin</h1>
+      <h1>Hi, I&apos;m John Doe</h1>
       <p>
         I blog about web development - especially frontend frameworks like
         Reacjs.

@@ -7,7 +7,7 @@ export default function Home({ posts }) {
   return (
     <>
       <Head>
-        <title>Amin&apos; Blog </title>
+        <title>John Doe&apos; Blog </title>
         <meta
           name="description"
           content="I post about programming and web development."
