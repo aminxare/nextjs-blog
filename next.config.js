@@ -25,7 +25,7 @@ module.exports = (phase) => {
     };
   return {
     assetPrefix: assetPrefix,
-    // basePath: basePath,
+    basePath: basePath,
     images: {
       loader: 'akamai',
       path: '',
